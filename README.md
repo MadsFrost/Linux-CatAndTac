@@ -1,4 +1,4 @@
-![Project](project.jpg)
+![Project](project.png)
 # Fsharp implementation of Linux Cat and Tac commands
 I made a library for the Linux Cat and Tac commands in Fsharp including a fun experiment on webscraping with Fsharp, using mono's web tools.
 
